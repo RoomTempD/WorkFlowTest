@@ -1,3 +1,1 @@
-This is the first message from RoomTempD.
-I am writing this in a "featurebranch" from davidpaze
-This was added after davidpaze forked.
+Change made after Will forked.
