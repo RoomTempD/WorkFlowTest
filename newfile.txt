@@ -1,2 +1,6 @@
 This is a new file created by admin.
+<<<<<<< HEAD
 Someone else edited this first.
+=======
+Some experiment I am performing.
+>>>>>>> meh
