@@ -1,6 +1,3 @@
 Learning to fly
 This resolved the conflict.
 a new line of code.
-testing a new line
-adding a line without branch.
-one more line without branch.
