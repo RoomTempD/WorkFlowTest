@@ -1,4 +1,4 @@
 Learning to fly
 This resolved the conflict.
 a new line of code.
-This line will be a conflict.
+This line is no longer a conflict.
