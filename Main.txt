@@ -2,3 +2,4 @@ Learning to fly
 This resolved the conflict.
 a new line of code.
 This line is no longer a conflict.
+some line
