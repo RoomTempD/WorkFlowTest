@@ -1,3 +1,4 @@
 Learning to fly
 This resolved the conflict.
 a new line of code.
+CONFLICT
