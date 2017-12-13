@@ -4,4 +4,4 @@ a new line of code.
 This line is no longer a conflict.
 some line
 
-I like the COLOR BLACK. 
+I don't like the COLOR BLACK anymore. It is very depressing. 
