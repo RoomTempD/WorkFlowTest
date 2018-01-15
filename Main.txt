@@ -7,3 +7,5 @@ some line
 I don't like the COLOR BLACK anymore. It is very depressing. 
 
 I took away the song lyrics.
+
+This is a new entry.
